@@ -47,6 +47,7 @@ function setup(){
 }
 
 function draw(){
+    background("cyan")
     if(backgroundImg)
         background(backgroundImg);
     
